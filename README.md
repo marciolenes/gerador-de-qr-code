@@ -18,4 +18,4 @@
 
 ### Visualização do projeto: <hr>
 
-- [Gerador de QR Code](https://alarme-em-js.netlify.app/)
+- [Gerador de QR Code](https://geradorde-qr-code.netlify.app/)
